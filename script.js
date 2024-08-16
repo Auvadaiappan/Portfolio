@@ -1,5 +1,5 @@
 var typed = new Typed(".text", {
-    strings: ["Flutter Developer", "App Developer", "Frontend Developer"],
+    strings: ["Flutter Developer", "Salesforce Developer", "Frontend Developer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
